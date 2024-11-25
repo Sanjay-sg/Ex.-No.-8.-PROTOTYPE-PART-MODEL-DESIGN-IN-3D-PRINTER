@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-[![image](https://github.com/user-attachments/assets/3862586c-5b71-499f-aad6-50288c9dda39)](https://github.com/Sanjay-sg/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER)
+![image](https://github.com/user-attachments/assets/f9c0a098-8876-492b-9bfe-c80f18f59d0f)
+
 
 ### Name: SANJAY G
 ### Register Number:212222230131
